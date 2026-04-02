@@ -1,0 +1,159 @@
+<h1>Youssef Abdullah</h1>
+    <h2>Professional Footballer ⚽</h2>
+
+    <p>Welcome to my personal website!</p>
+
+    <h3>About Me</h3>
+    <p>I am a professional football player and a Computer Science student.</p>
+
+    <h3>My Stats</h3>
+    <ul>
+        <li>Position: Forward</li>
+        <li>Age: 18</li>
+        <li>Goals: 25</li>
+    </ul>
+
+    <h3>Contact</h3>
+    <p>Email: youssefabdullahj234@gmmail.com</p>
+    <p>Instagram: @yousef_abdullah_14</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Youssef - Football Player</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #111;
+            color: white;
+        }
+
+        h1 {
+            color: #00ffcc;
+        }
+
+        .card {
+            background: #222;
+            margin: 20px auto;
+            padding: 20px;
+            width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>⚽ Youssef Abdullah</h1>
+    <h2>Professional Footballer</h2>
+
+    <div class="card">
+        <h3>About Me</h3>
+        <p>Professional football player & CS student.</p>
+    </div>
+
+    <div class="card">
+        <h3>My Stats</h3>
+        <p>Position: Forward</p>
+        <p>Goals: 25</p>
+        <p>Assists: 10</p>
+    </div>
+
+    <div class="card">
+        <h3>Contact</h3>
+        <p>Email: youssef@example.com</p>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Youssef - Football Player</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background-color: #0d0d0d;
+            color: white;
+        }
+
+        h1 {
+            color: #00ffcc;
+        }
+
+        .card {
+            background: #1a1a1a;
+            margin: 20px auto;
+            padding: 20px;
+            width: 300px;
+            border-radius: 12px;
+        }
+
+        img {
+            width: 200px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        button {
+            background: #00ffcc;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 8px;
+        }
+
+        button:hover {
+            background: #00ccaa;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>⚽ Youssef Abdullah</h1>
+    <h2>Professional Footballer</h2>
+
+    <img src="myphoto.jpg">
+
+    <div class="card">
+        <h3>About Me</h3>
+        <p>Professional football player & CS student aiming for top performance.</p>
+    </div>
+
+    <div class="card">
+        <h3>My Stats</h3>
+        <p>Position: Forward</p>
+        <p>Goals: 25</p>
+        <p>Assists: 10</p>
+    </div>
+
+    <div class="card">
+    <h3>Highlights</h3>
+
+    <iframe width="250" height="150"
+    src="https://www.youtube.com/watch?v=bo0uLd-fzw0"
+    frameborder="0" allowfullscreen>
+    </iframe>
+
+</div>
+
+    <div class="card">
+        <h3>Contact</h3>
+        <p>Email: youssef@example.com</p>
+    </div>
+
+    <script>
+        function showMessage() {
+            alert("Your highlight video will be here soon!");
+        }
+    </script>
+
+</body>
+</html>
